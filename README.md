@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Atitudes para reduzir a pegada de carbono
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O grande responsável pelo aquecimento global é o dióxido de carbono, por esse motivo, a redução de sua emissão é de extrema importância. Dessa forma, devemos tornar o nosso dia a dia mais sustentável através da mudança de hábitos de consumo e locomoção.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID, Hey Gen e Eleven Labs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um vídeo com um avatar virtual, usando uma foto minha, clonei minha própria voz, configurei e usei a conversão de texto em fala para explicar o tema sugerido. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um video com um avatar virtual no estilo "fake natty".
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito legal reproduzir minha imagem e fala através da IA.
 ```
 
 ### Exemplos e Insigths
